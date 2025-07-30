@@ -16,19 +16,8 @@ A fully functional, responsive, and visually appealing frontend that **exactly r
 - 🔑 OTP: `123456`
 - 🚀 Instant access to the Gemini interface
 
-### 🎬 **Demo Video**
 
-Watch the app in action with all features demonstrated:
-
-**[📹 Download Demo Video (54MB)](./Gemini%20Chat%20App%20-%20Google%20Chrome%202025-07-31%2001-33-31.mp4)**
-
-*▶️ See the complete authentication flow, chat interface, dark/light mode toggle, and all interactive features*
-
-> **💡 For GitHub Video Display**: To show the video directly in GitHub README, drag and drop your video file into a GitHub issue comment, then copy the generated link and replace the above link. GitHub will then display the video inline.
-
-**Alternative**: Watch the live app at [shivansh-gemini.netlify.app](https://shivansh-gemini.netlify.app/)
-
-## 🎯 **Pixel-Perfect Google Gemini Replica**
+## 🎯 **Google Gemini Replica**
 
 This app is a **100% accurate recreation** of Google's official Gemini chat interface, built from detailed analysis of the real application:
 
