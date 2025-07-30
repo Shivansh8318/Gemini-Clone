@@ -1,13 +1,13 @@
 # Gemini Chat App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/deployed/deploys.svg)](https://shivansh-gemini.netlify.app/auth) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-success)](https://shivansh-gemini.netlify.app/auth)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/deployed/deploys.svg)](https://shivansh-gemini.netlify.app/) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-success)](https://shivansh-gemini.netlify.app/)
 
 A fully functional, responsive, and visually appealing frontend that **exactly replicates Google Gemini's actual chat interface design**. Built with React, TypeScript, and modern web technologies to match the authentic Gemini user experience.
 
 ## 🚀 **Live Demo**
 
 ### 🌐 **Try It Live**
-**[🔗 Open Gemini Chat App](https://shivansh-gemini.netlify.app/auth)**
+**[🔗 Open Gemini Chat App](https://shivansh-gemini.netlify.app/)**
 
 *Experience the pixel-perfect Gemini replica directly in your browser!*
 
@@ -20,12 +20,13 @@ A fully functional, responsive, and visually appealing frontend that **exactly r
 
 Watch the app in action with all features demonstrated:
 
-<video width="800" controls>
-  <source src="./Gemini Chat App - Google Chrome 2025-07-31 01-33-31.mp4" type="video/mp4">
-  <a href="./Gemini Chat App - Google Chrome 2025-07-31 01-33-31.mp4">Download Demo Video</a>
-</video>
+**[📹 Download Demo Video (54MB)](./Gemini%20Chat%20App%20-%20Google%20Chrome%202025-07-31%2001-33-31.mp4)**
 
 *▶️ See the complete authentication flow, chat interface, dark/light mode toggle, and all interactive features*
+
+> **💡 For GitHub Video Display**: To show the video directly in GitHub README, drag and drop your video file into a GitHub issue comment, then copy the generated link and replace the above link. GitHub will then display the video inline.
+
+**Alternative**: Watch the live app at [shivansh-gemini.netlify.app](https://shivansh-gemini.netlify.app/)
 
 ## 🎯 **Pixel-Perfect Google Gemini Replica**
 
@@ -105,10 +106,13 @@ This app is a **100% accurate recreation** of Google's official Gemini chat inte
 
 ### Installation
 
-1. **Clone or download the project**
+1. **Download or clone the project**
    ```bash
+   # If cloning from a repository:
    git clone <repository-url>
    cd gemini-chat-app
+   
+   # Or extract downloaded files and navigate to project folder
    ```
 
 2. **Install dependencies**
@@ -125,6 +129,12 @@ This app is a **100% accurate recreation** of Google's official Gemini chat inte
    ```
    http://localhost:5173
    ```
+
+### 📁 Project Setup
+- ✅ **Git initialized** with comprehensive `.gitignore`
+- ✅ **Node modules excluded** from version control
+- ✅ **Environment files protected** (`.env` files ignored)
+- ✅ **Build outputs ignored** (`dist/`, cache files)
 
 ### Demo Usage
 
